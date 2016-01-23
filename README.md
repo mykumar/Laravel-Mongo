@@ -1,3 +1,5 @@
+Library is not yet ready
+
 Mongo Model for Laravel
 =======================
 

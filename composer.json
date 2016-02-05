@@ -1,0 +1,19 @@
+{
+    "name": "masteryuri/laravel-mongo",
+    "description": "MongoDB model for laravel",
+    "license": "MIT",
+    "version": "0.1",
+    "keywords": ["mongo", "mongodb", "laravel"],
+    "authors": [
+        {
+            "name": "Yuriy Guzenko",
+            "email": "yuriyg86@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+}
